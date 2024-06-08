@@ -6060,6 +6060,11 @@
   dependencies:
     "tmpl" "1.0.5"
 
+"material-icons@^1.13.12":
+  "integrity" "sha512-/2YoaB79IjUK2B2JB+vIXXYGtBfHb/XG66LvoKVM5ykHW7yfrV5SP6d7KLX6iijY6/G9GqwgtPQ/sbhFnOURVA=="
+  "resolved" "https://registry.npmjs.org/material-icons/-/material-icons-1.13.12.tgz"
+  "version" "1.13.12"
+
 "mdn-data@2.0.14":
   "integrity" "sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow=="
   "resolved" "https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz"

@@ -1,0 +1,13 @@
+.styledDropdown, .styledDropdown:hover, .styledDropdown:active {
+    background-color: #93e498;
+    color: white;
+}
+
+.styledDropdownList {
+    background-color: #93e498;
+}
+
+.styledDropdownItem:hover {
+    background-color: white;
+    cursor: pointer;
+}
